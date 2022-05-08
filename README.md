@@ -1,6 +1,6 @@
 # Aziza Abdurakhmonova
 ## .Net Developer at EPAM Systems
-### Software engineering is a neverending puzzle that I am passionately engaged in solving.
+Software engineering is a neverending puzzle that I am passionately engaged in solving.
 ## Experiance 
 
 ### EPAM Systems, January, 2022 - Present
