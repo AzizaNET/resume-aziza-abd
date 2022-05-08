@@ -1,6 +1,6 @@
 # Aziza Abdurakhmonova
 #### .Net Developer at EPAM Systems
-# [GitHub](https://github.com/AzizaNET) | [LinkedIn](https://www.linkedin.com/in/aziza-abdurakhmonova-721844192/) | [Email](aziza.abdurakhmanova.iut@gmail.com)
+## [GitHub](https://github.com/AzizaNET) | [LinkedIn](https://www.linkedin.com/in/aziza-abdurakhmonova-721844192/) | [Email](aziza.abdurakhmanova.iut@gmail.com)
 Software engineering is a neverending puzzle that I am passionately engaged in solving.
 ## Experiance 
 
